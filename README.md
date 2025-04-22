@@ -17,8 +17,10 @@ Built with HTML, CSS, and JavaScript (with props) — featuring a searchable tab
 <h1>🎥 Demo Video</h1>
 click the link to wach the demo video :- https://drive.google.com/drive/folders/1xjcl1uPYwFx2bVD3GMAyAA4OU3q-_3-R?usp=sharing
 <h1>🖼️ Screenshots</h1>
-(https://github.com/user-attachments/assets/0d1ab7f8-11c4-4c4d-b0c5-832dc2bb509a)<br>
-(https://github.com/user-attachments/assets/9dc2af60-a150-44ff-bbdf-78f03e01051e)
+
+![s1](https://github.com/user-attachments/assets/07dc9853-1196-4c66-b308-47d1128d7c1f)<br>
+![s2](https://github.com/user-attachments/assets/f95b02f8-9f49-4d01-9a7f-9db0430dc95d)
+
 
 <h1>📁 Tech Stack</h1>
 HTML<br>
