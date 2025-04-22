@@ -31,9 +31,9 @@ Local Storage
 
 <h1>🛠️ Setup Instructions</h1>
 Clone the repository
-
+https://github.com/Uniquesoul14/JavaScript_finalExam/tree/main/Javas.%20prac.%20Exam
 Open index.html in your browser.
-
+https://github.com/Uniquesoul14/JavaScript_finalExam/blob/main/Javas.%20prac.%20Exam/index.htm
 <h2>You're all set! 🎉</h2>
 
 <h1>📬 Contact</h1>
