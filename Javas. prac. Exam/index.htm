@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 State-wise Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <hr>
+        <h1>🦠 <span>COVID-19</span> State-wise Tracker</h1>
+            <hr>
+        <div class="input-group mb-3" id="input-box">
+            <!-- to fetch any specific state data and it will be heighlightrd -->
+          <input type="text" id="stateInput" class="form-control" placeholder="Enter State Name" >
+          <button class="btn btn-primary" onclick="fetchSpecificState()">Show</button>
+        </div>
+    
+        <table class="table table-bordered table-striped"  border="1px" cellspacing="0" cellpadding="10px" align="center">
+          <thead class="table-dark">
+            <tr>
+              <th>S.No</th>
+              <th>State Name</th>
+              <th>Indian Cases</th>
+              <th>Foreign Cases</th>
+              <th>Discharged</th>
+              <th>Deaths</th>
+              <th>Total Cases</th>
+            </tr>
+          </thead>
+          <tbody id="covidTableBody">
+           <!-- the data will be added here with javascript  code  -->
+          </tbody>
+        </table>
+      </div>
+
+    <script src="script.js">   </script>
+</body>
+</html>
